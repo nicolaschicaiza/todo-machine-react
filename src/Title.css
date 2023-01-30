@@ -1,0 +1,10 @@
+.Title {
+    color: yellow;
+    font-weight: 600;
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 0 20%;
+    width: calc(100% - 40%);
+    background-color: transparent;
+    border: none;
+}

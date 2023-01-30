@@ -1,0 +1,12 @@
+.TodoCounter {
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+}
+
+@media screen and (min-width: 600px) {
+    .TodoCounter {
+        font-size: 1rem;
+    }
+}
+
